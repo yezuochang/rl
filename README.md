@@ -3,16 +3,18 @@
 
 * ## 离散动作 (Discrete Action)
 
-- ### Q-learning
+    - ### Q-learning
 
-- ### Deep Q-Network (DQN)
+    - ### Deep Q-Network (DQN)
+        <https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf>
 
 * ## 连续动作
 
-- ### Policy Gradient (PG)
+    - ### Policy Gradient (PG)
 
-- ### Deterministic Policy Gradient (DPG)
+    - ### Deterministic Policy Gradient (DPG)
 
-- ### Deep Deterministic Policy Gradient (DDPG)
+    - ### Deep Deterministic Policy Gradient (DDPG)
 
-- ### Continuous Deep Q-Network (CDQN) or Normalized Advantage Function (NAF)
+    - ### Continuous Deep Q-Network (CDQN) or Normalized Advantage Function (NAF)
+        <https://arxiv.org/pdf/1603.00748.pdf>
