@@ -1,13 +1,13 @@
 # 强化学习 (Reinforcement Learning)
 
 
-## * 离散动作 (Discrete Action)
+* ## 离散动作 (Discrete Action)
 
 ### - Q-learning
 
 ### - Deep Q-Network (DQN)
 
-## * 连续动作
+* ## 连续动作
 
 ### - Policy Gradient (PG)
 
