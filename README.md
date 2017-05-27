@@ -18,6 +18,7 @@
         [Deterministic Policy Gradient Algorithms](http://proceedings.mlr.press/v32/silver14.pdf), Davi Silver
 
     - ### Deep Deterministic Policy Gradient (DDPG)
+        [Continuous control with deep reinforcement learning](http://arxiv.org/abs/1509.02971), Timothy P. Lillicrap, 2015
 
     - ### Continuous Deep Q-Network (CDQN) or Normalized Advantage Function (NAF)
         [Continuous Deep Q-Learning with Model-based Acceleration](https://arxiv.org/pdf/1603.00748.pdf), S. Gu, 2016
