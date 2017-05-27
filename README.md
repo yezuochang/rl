@@ -1,20 +1,18 @@
 # 强化学习 (Reinforcement Learning)
-==================================
 
-## 离散动作 (Discrete Action)
-----------------------------
 
-### Q-learning
+## * 离散动作 (Discrete Action)
 
-### Deep Q-Network (DQN)
+### - Q-learning
 
-## 连续动作
-----------------------------
+### - Deep Q-Network (DQN)
 
-### Policy Gradient (PG)
+## * 连续动作
 
-### Deterministic Policy Gradient (DPG)
+### - Policy Gradient (PG)
 
-### Deep Deterministic Policy Gradient (DDPG)
+### - Deterministic Policy Gradient (DPG)
 
-### Continuous Deep Q-Network (CDQN) or Normalized Advantage Function (NAF)
+### - Deep Deterministic Policy Gradient (DDPG)
+
+### - Continuous Deep Q-Network (CDQN) or Normalized Advantage Function (NAF)
